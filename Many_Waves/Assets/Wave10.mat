@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Wave10
-  m_Shader: {fileID: 4800000, guid: e7500522b55163745a8fc675b0cd7c74, type: 3}
+  m_Shader: {fileID: 4800000, guid: 19f74b3c153a9ab438a17e8f1492a172, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -81,6 +81,6 @@ Material:
     - _WaveSpeed: 3
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 0.06589508, b: 1, a: 1}
+    - _Color: {r: 0.24203454, g: 0.25671652, b: 0.46226418, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
